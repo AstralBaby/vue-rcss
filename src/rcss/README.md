@@ -3,6 +3,11 @@ Allows you to use your component state within your css.\
 *Live preview:* https://jsfiddle.net/Catalinita/4jzo1xw7/9/
 
 # Installation
+**CDN**
+```html
+<script src="https://cdn.jsdelivr.net/npm/vue-rcss@1.0.6/dist/rcss.js"></script>
+```
+**CLI**\
 Download the package with ```npm i vue-rcss``` for npm or ```yarn add vue-rcss``` for yarn. \
  \
 **Global use:**
