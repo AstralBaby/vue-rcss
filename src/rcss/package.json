@@ -1,0 +1,29 @@
+{
+  "name": "vue-rcss",
+  "version": "1.1.0",
+  "description": "Allows you to use your component state within your css",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AstralBaby/vue-rcss.git"
+  },
+  "keywords": [
+    "vue",
+    "reactivity",
+    "reactive",
+    "reactive",
+    "css",
+    "bind",
+    "css",
+    "vue css bind"
+  ],
+  "author": "Catalina Fernandez aka BebeKelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AstralBaby/vue-rcss/issues"
+  },
+  "homepage": "https://github.com/AstralBaby/vue-rcss#readme"
+}
